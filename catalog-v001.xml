@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://def.isotc211.org/iso19160/-1/2015/Profile_Other" uri="https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/19160-1/2015/iso19160-1Profile_Other.owl"/>
+    <uri id="Imports Wizard Entry" name="http://def.isotc211.org/iso19160/-1/2015/Address" uri="https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/19160-1/2015/iso19160-1Address.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1502356836576" name="http://namf.anzlic.org.au/def/as4590" uri="as4590.owl"/>
+    </group>
+</catalog>

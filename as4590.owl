@@ -10,7 +10,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:base="http://def.isotc211.org/iso19150/-2/2012/base#">
     <owl:Ontology rdf:about="http://namf.anzlic.org.au/def/as4590#">
-        <owl:imports rdf:resource="http://def.isotc211.org/iso19160/-1/2015/Address"/>
+        <owl:imports rdf:resource="http://def.isotc211.org/iso19160/-1/2015/Profile_Other"/>
     </owl:Ontology>
 </rdf:RDF>
 
